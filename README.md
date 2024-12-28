@@ -17,4 +17,4 @@ This Power BI Dashboard helps construction project managers visualize data effec
 📅 Project Timeline Gantt Charts: Integrating Gantt charts aids in planning and monitoring project progress effectively.\
 📈 Performance Metrics Highlight Efficiency: Metrics like budget utilization and project completion percentages provide a clear view of performance against targets.\
 🌍 Location-Based Insights: Utilizing shape maps offers insights into geographical task distributions, enhancing resource allocation strategies.\
-📋 Detailed Reporting Facilitates Accountability: Comprehensive tables of project managers and tasks promote transparency and accountability across projects.\
+📋 Detailed Reporting Facilitates Accountability: Comprehensive tables of project managers and tasks promote transparency and accountability across projects.
