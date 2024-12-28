@@ -1,4 +1,5 @@
 # Summary
+The CSV file raw data was transformed to star schema in Power BI data modeling to improve data organization, query performance, and data analysis.\
 This Power BI Dashboard helps construction project managers visualize data effectively, enabling better tracking of costs, budgets, tasks, and project statuses.
 
 ### Highlights
