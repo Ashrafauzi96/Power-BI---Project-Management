@@ -8,7 +8,7 @@ This Power BI Dashboard helps construction project managers visualize data effec
 📅 Project timeline tracking with task status.\
 📈 Summary metrics for project managers and overdue tasks.\
 🌍 Geospatial data representation using shape maps.\
-📋 Task management through detailed tables and SVGs.\ <br/>
+📋 Task management through detailed tables and SVGs. <br/>
 
 ### Key Insights\
 📊 Data Visualization Improves Decision Making: Using Power BI enhances visibility into project metrics, allowing managers to make informed decisions quickly.\
