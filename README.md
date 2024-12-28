@@ -10,7 +10,7 @@ This Power BI Dashboard helps construction project managers visualize data effec
 🌍 Geospatial data representation using shape maps.\
 📋 Task management through detailed tables and SVGs. <br/>
 
-### Key Insights\
+### Key Insights
 📊 Data Visualization Improves Decision Making: Using Power BI enhances visibility into project metrics, allowing managers to make informed decisions quickly.\
 🔍 Customizable Filters Increase Usability: The ability to filter by various parameters helps users focus on relevant data without distractions.\
 💡 Trend Analysis with Historical Data: Monthly visuals for budget and cost help in analyzing trends, supporting proactive financial management.\
