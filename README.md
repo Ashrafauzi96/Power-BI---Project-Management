@@ -2,7 +2,7 @@
 This Power BI Dashboard helps construction project managers visualize data effectively, enabling better tracking of costs, budgets, tasks, and project statuses.
 
 ### Highlights
-🏗️ Simple construction project management dashboard setup.
+🏗️ Simple construction project management dashboard setup.\
 📊 Interactive filters for project managers and types.
 💰 Visualizations for cost, budget, and profit over time.
 📅 Project timeline tracking with task status.
